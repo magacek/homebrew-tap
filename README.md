@@ -2,7 +2,7 @@
 
 ```bash
 brew tap magacek/tap
-brew install --HEAD magacek/tap/snag
+brew install magacek/tap/snag
 ```
 
 | formula | what |
